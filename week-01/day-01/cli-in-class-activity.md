@@ -22,22 +22,22 @@ open filename
 To open a file in a specific program:
 open filename -a programname
 
-to create a directory
+To create a directory:
 mkdir directoryname
 
-to copy a file from one directory to another
+To copy a file from one directory to another:
 cp filename destination
 
-move file from one directory to another
+Move file from one directory to another:
 mv filename destination
 
-remove folder with files
+Remove folder with files:
 rm -r -f foldername
 
-write text to file. write "hello world" text to 1.txt file
+Write text to file. write "hello world" text to 1.txt file:
 echo "hello world" > 1.txt
 
-display file contents
+Display file contents:
 cat 1.txt
 
 
